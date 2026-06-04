@@ -1,0 +1,358 @@
+[
+  {
+    "id": "l001",
+    "name": "东京迪士尼乐园 1日票",
+    "city": "tokyo",
+    "type": "ticket",
+    "price": 7900,
+    "currency": "JPY",
+    "rating": 4.6,
+    "reviewCount": 12500,
+    "thumbnail": "https://images.unsplash.com/photo-1540959737352-9a0b0c69812a?w=400&h=600&fit=crop",
+    "provider": "Klook",
+    "relatedVideoIds": [
+      "t011"
+    ],
+    "tags": [
+      "迪士尼",
+      "亲子",
+      "热门"
+    ]
+  },
+  {
+    "id": "l002",
+    "name": "东京迪士尼乐园 快速通行",
+    "city": "tokyo",
+    "type": "ticket",
+    "price": 15000,
+    "currency": "JPY",
+    "rating": 4.4,
+    "reviewCount": 3200,
+    "thumbnail": "https://images.unsplash.com/photo-1493976060935-0f9a369e6087?w=400&h=600&fit=crop",
+    "provider": "官方",
+    "relatedVideoIds": [
+      "t011"
+    ],
+    "tags": [
+      "迪士尼",
+      "免排队"
+    ]
+  },
+  {
+    "id": "l003",
+    "name": "希尔顿成田机场酒店",
+    "city": "tokyo",
+    "type": "hotel",
+    "price": 12000,
+    "currency": "JPY",
+    "rating": 4.3,
+    "reviewCount": 8900,
+    "thumbnail": "https://images.unsplash.com/photo-1528162054280-147b0e2768a9?w=400&h=600&fit=crop",
+    "provider": "Booking",
+    "relatedVideoIds": [
+      "t012"
+    ],
+    "tags": [
+      "机场",
+      "转机",
+      "舒适"
+    ]
+  },
+  {
+    "id": "l004",
+    "name": "格拉斯丽新宿酒店",
+    "city": "tokyo",
+    "type": "hotel",
+    "price": 8500,
+    "currency": "JPY",
+    "rating": 4.5,
+    "reviewCount": 6700,
+    "thumbnail": "https://images.unsplash.com/photo-1503899037464-26b0bc64a3d4?w=400&h=600&fit=crop",
+    "provider": "Agoda",
+    "relatedVideoIds": [
+      "t013"
+    ],
+    "tags": [
+      "新宿",
+      "哥斯拉主题",
+      "性价比"
+    ]
+  },
+  {
+    "id": "l005",
+    "name": "新宿华盛顿酒店",
+    "city": "tokyo",
+    "type": "hotel",
+    "price": 6500,
+    "currency": "JPY",
+    "rating": 4.1,
+    "reviewCount": 4500,
+    "thumbnail": "https://images.unsplash.com/photo-1536098010691-81d0d4a59a90?w=400&h=600&fit=crop",
+    "provider": "Booking",
+    "relatedVideoIds": [
+      "t013"
+    ],
+    "tags": [
+      "新宿",
+      "平价",
+      "交通方便"
+    ]
+  },
+  {
+    "id": "l006",
+    "name": "大皇宫门票+导览",
+    "city": "bangkok",
+    "type": "ticket",
+    "price": 500,
+    "currency": "THB",
+    "rating": 4.2,
+    "reviewCount": 9800,
+    "thumbnail": "https://images.unsplash.com/photo-1552465011-b4ef21a79d7e?w=400&h=600&fit=crop",
+    "provider": "Trip.com",
+    "relatedVideoIds": [
+      "b011"
+    ],
+    "tags": [
+      "大皇宫",
+      "导览"
+    ]
+  },
+  {
+    "id": "l007",
+    "name": "曼谷暹罗智选假日酒店",
+    "city": "bangkok",
+    "type": "hotel",
+    "price": 2800,
+    "currency": "THB",
+    "rating": 4.4,
+    "reviewCount": 5600,
+    "thumbnail": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=400&h=600&fit=crop",
+    "provider": "Agoda",
+    "relatedVideoIds": [
+      "b009"
+    ],
+    "tags": [
+      "暹罗",
+      "BTS沿线",
+      "性价比"
+    ]
+  },
+  {
+    "id": "l008",
+    "name": "岚山小火车 tickets",
+    "city": "kyoto",
+    "type": "ticket",
+    "price": 880,
+    "currency": "JPY",
+    "rating": 4.5,
+    "reviewCount": 4200,
+    "thumbnail": "https://images.unsplash.com/photo-1491888946425-aa0ced6532f0?w=400&h=600&fit=crop",
+    "provider": "官方",
+    "relatedVideoIds": [
+      "k012"
+    ],
+    "tags": [
+      "岚山",
+      "小火车",
+      "赏枫"
+    ]
+  },
+  {
+    "id": "l009",
+    "name": "京都祇园町屋民宿",
+    "city": "kyoto",
+    "type": "hotel",
+    "price": 15000,
+    "currency": "JPY",
+    "rating": 4.7,
+    "reviewCount": 890,
+    "thumbnail": "https://images.unsplash.com/photo-1545569341-9dbca384fa12?w=400&h=600&fit=crop",
+    "provider": "Airbnb",
+    "relatedVideoIds": [
+      "k011"
+    ],
+    "tags": [
+      "町屋",
+      "传统",
+      "体验"
+    ]
+  },
+  {
+    "id": "l010",
+    "name": "东京SKYTREE门票",
+    "city": "tokyo",
+    "type": "ticket",
+    "price": 2100,
+    "currency": "JPY",
+    "rating": 4.5,
+    "reviewCount": 7800,
+    "thumbnail": "https://images.unsplash.com/photo-1528162054280-147b0e2768a9?w=400&h=600&fit=crop",
+    "provider": "Klook",
+    "relatedVideoIds": [
+      "t003"
+    ],
+    "tags": [
+      "晴空塔",
+      "夜景"
+    ]
+  },
+  {
+    "id": "l011",
+    "name": "水明漾私人 Villa 2晚",
+    "city": "bali",
+    "type": "hotel",
+    "price": 2800000,
+    "currency": "IDR",
+    "rating": 4.8,
+    "reviewCount": 1200,
+    "thumbnail": "https://images.unsplash.com/photo-1537996195441-565783c4df4b?w=400&h=600&fit=crop",
+    "provider": "Airbnb",
+    "relatedVideoIds": [
+      "l013"
+    ],
+    "tags": [
+      "villa",
+      "泳池",
+      "浪漫"
+    ]
+  },
+  {
+    "id": "l012",
+    "name": "乌鲁瓦图 Kecak 火舞门票",
+    "city": "bali",
+    "type": "ticket",
+    "price": 150000,
+    "currency": "IDR",
+    "rating": 4.6,
+    "reviewCount": 3400,
+    "thumbnail": "https://images.unsplash.com/photo-1518548419970-58e640b2790e?w=400&h=600&fit=crop",
+    "provider": "Klook",
+    "relatedVideoIds": [
+      "l015"
+    ],
+    "tags": [
+      "火舞",
+      "日落",
+      "文化"
+    ]
+  },
+  {
+    "id": "l013",
+    "name": "乌布梯田 Swing 体验",
+    "city": "bali",
+    "type": "tour",
+    "price": 350000,
+    "currency": "IDR",
+    "rating": 4.3,
+    "reviewCount": 8900,
+    "thumbnail": "https://images.unsplash.com/photo-1555409288-cdc736c5939d?w=400&h=600&fit=crop",
+    "provider": "Trip.com",
+    "relatedVideoIds": [
+      "l011"
+    ],
+    "tags": [
+      "网红",
+      "Swing",
+      "拍照"
+    ]
+  },
+  {
+    "id": "l014",
+    "name": "登巴萨机场接机+包车1日",
+    "city": "bali",
+    "type": "tour",
+    "price": 650000,
+    "currency": "IDR",
+    "rating": 4.5,
+    "reviewCount": 2100,
+    "thumbnail": "https://images.unsplash.com/photo-1512453979798-5ea266f9340b?w=400&h=600&fit=crop",
+    "provider": "Klook",
+    "relatedVideoIds": [
+      "l014"
+    ],
+    "tags": [
+      "接机",
+      "包车",
+      "方便"
+    ]
+  },
+  {
+    "id": "l015",
+    "name": "环球影城新加坡 1日票",
+    "city": "singapore",
+    "type": "ticket",
+    "price": 82,
+    "currency": "SGD",
+    "rating": 4.5,
+    "reviewCount": 15600,
+    "thumbnail": "https://images.unsplash.com/photo-1525621042936-feaa9a022b7a?w=400&h=600&fit=crop",
+    "provider": "官方",
+    "relatedVideoIds": [
+      "s011"
+    ],
+    "tags": [
+      "环球影城",
+      "亲子",
+      "热门"
+    ]
+  },
+  {
+    "id": "l016",
+    "name": "滨海湾金沙 2晚",
+    "city": "singapore",
+    "type": "hotel",
+    "price": 680,
+    "currency": "SGD",
+    "rating": 4.6,
+    "reviewCount": 9800,
+    "thumbnail": "https://images.unsplash.com/photo-1529655683827-abb9c99c4d1a?w=400&h=600&fit=crop",
+    "provider": "Booking",
+    "relatedVideoIds": [
+      "s012"
+    ],
+    "tags": [
+      "无边泳池",
+      "地标",
+      "奢华"
+    ]
+  },
+  {
+    "id": "l017",
+    "name": "樟宜机场胶囊酒店",
+    "city": "singapore",
+    "type": "hotel",
+    "price": 80,
+    "currency": "SGD",
+    "rating": 4.2,
+    "reviewCount": 3200,
+    "thumbnail": "https://images.unsplash.com/photo-1565967511843-21a8c516fa8a?w=400&h=600&fit=crop",
+    "provider": "Agoda",
+    "relatedVideoIds": [
+      "s013"
+    ],
+    "tags": [
+      "机场",
+      "转机",
+      "平价"
+    ]
+  },
+  {
+    "id": "l018",
+    "name": "滨海湾花园 双馆门票",
+    "city": "singapore",
+    "type": "ticket",
+    "price": 28,
+    "currency": "SGD",
+    "rating": 4.7,
+    "reviewCount": 11200,
+    "thumbnail": "https://images.unsplash.com/photo-1567365689960-8e4f3a2a0a0a?w=400&h=600&fit=crop",
+    "provider": "Klook",
+    "relatedVideoIds": [
+      "s010"
+    ],
+    "tags": [
+      "超级树",
+      "Cloud Forest"
+    ]
+  }
+]
