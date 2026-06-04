@@ -16,7 +16,7 @@
     ],
     "priceLevel": "免费",
     "rating": 4.7,
-    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-p001/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(330%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(330%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E6%B5%85%E8%8D%89%E5%AF%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%B8%9C%E4%BA%AC%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "台东区浅草2-3-1",
     "relatedVideoIds": [
       "t014",
@@ -41,7 +41,7 @@
     "priceLevel": "¥800-1200",
     "queueTime": "约15分钟",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-p002/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(330%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(330%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3EFuglen%20Coffee%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%B8%9C%E4%BA%AC%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "涩谷区 Tomigaya 1-16-11",
     "relatedVideoIds": [
       "t007"
@@ -65,7 +65,7 @@
     "priceLevel": "¥500-800",
     "queueTime": "约5分钟",
     "rating": 4.4,
-    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-p003/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(330%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(330%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3EAbout%20Life%20Cof%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%B8%9C%E4%BA%AC%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "涩谷区道玄坂",
     "relatedVideoIds": [
       "t007"
@@ -89,7 +89,7 @@
     "priceLevel": "¥2000-4000",
     "queueTime": "周末需排队",
     "rating": 4.6,
-    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-p004/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(330%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(330%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E6%80%9D%E3%81%84%E5%87%BA%E6%A8%AA%E4%B8%81%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%B8%9C%E4%BA%AC%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "新宿区西新宿1",
     "relatedVideoIds": [
       "t008"
@@ -113,7 +113,7 @@
     "priceLevel": "฿200-500",
     "queueTime": "19:00后高峰",
     "rating": 4.3,
-    "thumbnail": "https://picsum.photos/seed/triplens-bangkok-p005/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(35%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(35%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E6%8B%89%E5%B7%AE%E8%BE%BE%E7%81%AB%E8%BD%A6%E5%A4%9C%E5%B8%82%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%9B%BC%E8%B0%B7%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Ratchada",
     "relatedVideoIds": [
       "b003"
@@ -136,7 +136,7 @@
     ],
     "priceLevel": "฿100-300",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-bangkok-p006/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(35%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(35%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E5%94%90%E4%BA%BA%E8%A1%97%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%9B%BC%E8%B0%B7%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Yaowarat Road",
     "relatedVideoIds": [
       "b004"
@@ -160,7 +160,7 @@
     "priceLevel": "免费",
     "queueTime": "清晨人少",
     "rating": 4.8,
-    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-p007/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(280%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(280%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E4%BC%8F%E8%A7%81%E7%A8%BB%E8%8D%B7%E5%A4%A7%E7%A4%BE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%BA%AC%E9%83%BD%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "伏见区深草",
     "relatedVideoIds": [
       "k003",
@@ -184,7 +184,7 @@
     ],
     "priceLevel": "¥600-1000",
     "rating": 4.6,
-    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-p008/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(280%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(280%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E5%93%B2%E5%AD%A6%E4%B9%8B%E9%81%93%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%BA%AC%E9%83%BD%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "左京区",
     "relatedVideoIds": [
       "k004",
@@ -208,7 +208,7 @@
     ],
     "priceLevel": "¥500-2000",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-p009/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(280%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(280%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E9%94%A6%E5%B8%82%E5%9C%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%BA%AC%E9%83%BD%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "中京区",
     "relatedVideoIds": [
       "k015"
@@ -231,7 +231,7 @@
     ],
     "priceLevel": "免费",
     "rating": 4.6,
-    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-p010/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(330%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(330%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9B%AD%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%B8%9C%E4%BA%AC%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "台东区上野",
     "relatedVideoIds": [
       "t017"
@@ -254,7 +254,7 @@
     ],
     "priceLevel": "฿500",
     "rating": 4.4,
-    "thumbnail": "https://picsum.photos/seed/triplens-bangkok-p011/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(35%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(35%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E5%A4%A7%E7%9A%87%E5%AE%AB%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%9B%BC%E8%B0%B7%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Phra Nakhon",
     "relatedVideoIds": [
       "b006",
@@ -277,7 +277,7 @@
     ],
     "priceLevel": "¥500",
     "rating": 4.7,
-    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-p012/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(280%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(280%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E9%87%91%E9%98%81%E5%AF%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%BA%AC%E9%83%BD%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "北区",
     "relatedVideoIds": [
       "k008"
@@ -301,7 +301,7 @@
     "priceLevel": "฿100-1000",
     "queueTime": "周末10:00后",
     "rating": 4.4,
-    "thumbnail": "https://picsum.photos/seed/triplens-bangkok-p013/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(35%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(35%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3EChatuchak%E5%91%A8%E6%9C%AB%E5%B8%82%E5%9C%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%9B%BC%E8%B0%B7%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Chatuchak",
     "relatedVideoIds": [
       "b014"
@@ -324,7 +324,7 @@
     ],
     "priceLevel": "¥400",
     "rating": 4.7,
-    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-p014/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(280%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(280%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E6%B8%85%E6%B0%B4%E5%AF%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%BA%AC%E9%83%BD%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "东山区",
     "relatedVideoIds": [
       "k001",
@@ -349,7 +349,7 @@
     "priceLevel": "¥1000-3000",
     "queueTime": "早上7-9点",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-p015/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(330%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(330%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E7%AD%91%E5%9C%B0%E5%A4%96%E5%B8%82%E5%9C%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E4%B8%9C%E4%BA%AC%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "中央区筑地",
     "relatedVideoIds": [
       "t018"
@@ -373,7 +373,7 @@
     "priceLevel": "IDR 50k",
     "queueTime": "17:00 看火舞",
     "rating": 4.7,
-    "thumbnail": "https://picsum.photos/seed/triplens-bali-p016/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(165%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(165%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E4%B9%8C%E9%B2%81%E7%93%A6%E5%9B%BE%E5%AF%BA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E5%B7%B4%E5%8E%98%E5%B2%9B%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Pecatu, Badung",
     "relatedVideoIds": [
       "l016",
@@ -398,7 +398,7 @@
     "priceLevel": "IDR 20k",
     "queueTime": "早上人少",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-bali-p017/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(165%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(165%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E5%BE%B7%E6%A0%BC%E6%8B%89%E6%9C%97%E6%A2%AF%E7%94%B0%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E5%B7%B4%E5%8E%98%E5%B2%9B%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Tegallalang, Ubud",
     "relatedVideoIds": [
       "l002",
@@ -423,7 +423,7 @@
     "priceLevel": "IDR 300k+",
     "queueTime": "周末需预约",
     "rating": 4.6,
-    "thumbnail": "https://picsum.photos/seed/triplens-bali-p018/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(165%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(165%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3EPotato%20Head%20Be%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E5%B7%B4%E5%8E%98%E5%B2%9B%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Seminyak",
     "relatedVideoIds": [
       "l007"
@@ -446,7 +446,7 @@
     ],
     "priceLevel": "IDR 80k",
     "rating": 4.4,
-    "thumbnail": "https://picsum.photos/seed/triplens-bali-p019/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(165%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(165%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E4%B9%8C%E5%B8%83%E7%8C%B4%E6%A3%AE%E6%9E%97%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E5%B7%B4%E5%8E%98%E5%B2%9B%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Ubud",
     "relatedVideoIds": [
       "l002",
@@ -470,7 +470,7 @@
     ],
     "priceLevel": "S$20+ SkyPark",
     "rating": 4.6,
-    "thumbnail": "https://picsum.photos/seed/triplens-singapore-p020/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(205%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(205%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E6%BB%A8%E6%B5%B7%E6%B9%BE%E9%87%91%E6%B2%99%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%96%B0%E5%8A%A0%E5%9D%A1%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "10 Bayfront Ave",
     "relatedVideoIds": [
       "s002",
@@ -494,7 +494,7 @@
     ],
     "priceLevel": "S$5-15",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-singapore-p021/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(205%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(205%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E7%89%9B%E8%BD%A6%E6%B0%B4%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%96%B0%E5%8A%A0%E5%9D%A1%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Chinatown",
     "relatedVideoIds": [
       "s006",
@@ -518,7 +518,7 @@
     ],
     "priceLevel": "免费",
     "rating": 4.4,
-    "thumbnail": "https://picsum.photos/seed/triplens-singapore-p022/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(205%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(205%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E5%93%88%E8%8A%9D%E5%B7%B7%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%96%B0%E5%8A%A0%E5%9D%A1%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Kampong Glam",
     "relatedVideoIds": [
       "s007"
@@ -542,7 +542,7 @@
     "priceLevel": "S$28",
     "queueTime": "19:45 灯光秀",
     "rating": 4.7,
-    "thumbnail": "https://picsum.photos/seed/triplens-singapore-p023/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(205%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(205%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E6%BB%A8%E6%B5%B7%E6%B9%BE%E8%8A%B1%E5%9B%AD%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%96%B0%E5%8A%A0%E5%9D%A1%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "18 Marina Gardens Dr",
     "relatedVideoIds": [
       "s002",
@@ -566,7 +566,7 @@
     ],
     "priceLevel": "S$50+",
     "rating": 4.5,
-    "thumbnail": "https://picsum.photos/seed/triplens-singapore-p024/400/600",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22600%22%20viewBox%3D%220%200%20400%20600%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(205%2C55%25%2C35%25)%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(205%2C50%25%2C20%25)%22%2F%3E%0A%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22400%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%22320%22%20cy%3D%22100%22%20r%3D%2270%22%20fill%3D%22white%22%20opacity%3D%220.07%22%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2270%22%20cy%3D%22500%22%20r%3D%2290%22%20fill%3D%22white%22%20opacity%3D%220.05%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-weight%3D%22600%22%3E%E5%9C%A3%E6%B7%98%E6%B2%99%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22200%22%20y%3D%22325%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2213%22%20font-family%3D%22system-ui%2Csans-serif%22%20opacity%3D%220.75%22%3E%E6%96%B0%E5%8A%A0%E5%9D%A1%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E",
     "address": "Sentosa Island",
     "relatedVideoIds": [
       "s009",

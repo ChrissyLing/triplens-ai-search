@@ -6,7 +6,32 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataDir = join(__dirname, "..", "data");
 mkdirSync(dataDir, { recursive: true });
 
-const thumb = (seed) => `https://picsum.photos/seed/${seed}/400/600`;
+const CITY_HUE = { tokyo: 330, bangkok: 35, kyoto: 280, bali: 165, singapore: 205 };
+const CITY_LABEL = { tokyo: "东京", bangkok: "曼谷", kyoto: "京都", bali: "巴厘岛", singapore: "新加坡" };
+
+function escapeXml(s) {
+  return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function svgThumb(label, city) {
+  const hue = CITY_HUE[city] ?? 220;
+  const title = escapeXml(label.slice(0, 14));
+  const sub = escapeXml(CITY_LABEL[city] ?? city);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+    <defs>
+      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="hsl(${hue},55%,35%)"/>
+        <stop offset="100%" stop-color="hsl(${hue},50%,20%)"/>
+      </linearGradient>
+    </defs>
+    <rect width="400" height="600" fill="url(#g)"/>
+    <circle cx="320" cy="100" r="70" fill="white" opacity="0.07"/>
+    <circle cx="70" cy="500" r="90" fill="white" opacity="0.05"/>
+    <text x="200" y="290" text-anchor="middle" fill="white" font-size="20" font-family="system-ui,sans-serif" font-weight="600">${title}</text>
+    <text x="200" y="325" text-anchor="middle" fill="white" font-size="13" font-family="system-ui,sans-serif" opacity="0.75">${sub}</text>
+  </svg>`;
+  return `data:image/svg+xml,${encodeURIComponent(svg)}`;
+}
 
 const tokyoVideos = [
   { title: "东京3日暴走路线｜新手不踩坑", creator: "@tokyo_walker", intent: "learn", pois: ["浅草寺", "秋叶原", "新宿"], tags: ["新手友好", "步行多", "预算中等"], day: 1 },
@@ -123,10 +148,6 @@ const singaporeVideos = [
   { title: "新加坡地铁+巴士交通攻略", creator: "@sg_tips", intent: "learn", pois: ["樟宜机场"], tags: ["交通", "Ez-link", "省钱"], day: 0 },
 ];
 
-function thumbSeed(city, index) {
-  return `triplens-${city}-${index}`;
-}
-
 const CITY_PREFIX = {
   tokyo: "t",
   bangkok: "b",
@@ -146,7 +167,7 @@ function buildVideos(cityVideos, city) {
     transcript: `${v.title}。今天带大家探索${v.pois.join("、")}。${v.tags.join("，")}。强烈推荐！`,
     pois: v.pois,
     tags: v.tags,
-    thumbnail: thumb(thumbSeed(city, i + 1)),
+    thumbnail: svgThumb(v.title.split("｜")[0], city),
     views: `${(Math.random() * 2 + 0.1).toFixed(1)}M`,
     ...(v.day !== undefined && v.day > 0 ? { day: v.day } : {}),
   }));
@@ -199,7 +220,7 @@ const poiData = pois.map((p) => ({
   priceLevel: p.priceLevel,
   ...(p.queueTime ? { queueTime: p.queueTime } : {}),
   rating: p.rating,
-  thumbnail: thumb(thumbSeed(p.city, p.id)),
+  thumbnail: svgThumb(p.name, p.city),
   address: p.address,
   relatedVideoIds: p.videos,
 }));
@@ -234,7 +255,7 @@ const listingData = listings.map((l) => ({
   currency: l.currency,
   rating: l.rating,
   reviewCount: l.reviewCount,
-  thumbnail: thumb(thumbSeed(l.city, l.id)),
+  thumbnail: svgThumb(l.name, l.city),
   provider: l.provider,
   relatedVideoIds: l.videos,
   tags: l.tags,
