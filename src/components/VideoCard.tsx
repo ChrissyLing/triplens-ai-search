@@ -1,13 +1,13 @@
 "use client";
 
 import type { Video } from "@/types";
+import ThumbnailImage from "./ThumbnailImage";
 
 function VideoCard({ video }: { video: Video }) {
   return (
     <div className="group overflow-hidden rounded-xl bg-zinc-900 transition hover:ring-1 hover:ring-pink-500/30">
       <div className="relative aspect-[3/4] overflow-hidden">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
+        <ThumbnailImage
           src={video.thumbnail}
           alt={video.title}
           className="h-full w-full object-cover transition group-hover:scale-105"

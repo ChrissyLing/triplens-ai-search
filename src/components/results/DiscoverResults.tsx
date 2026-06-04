@@ -2,6 +2,7 @@
 
 import type { POI, Video } from "@/types";
 import { VideoCard } from "../VideoCard";
+import ThumbnailImage from "../ThumbnailImage";
 
 interface DiscoverResultsProps {
   pois: POI[];
@@ -22,8 +23,7 @@ export default function DiscoverResults({ pois, videos }: DiscoverResultsProps) 
               className="overflow-hidden rounded-xl border border-purple-500/20 bg-zinc-900 transition hover:border-purple-500/40"
             >
               <div className="relative h-40 overflow-hidden">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <ThumbnailImage
                   src={poi.thumbnail}
                   alt={poi.name}
                   className="h-full w-full object-cover"

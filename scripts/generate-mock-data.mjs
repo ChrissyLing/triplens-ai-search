@@ -6,8 +6,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataDir = join(__dirname, "..", "data");
 mkdirSync(dataDir, { recursive: true });
 
-const thumb = (seed) =>
-  `https://images.unsplash.com/photo-${seed}?w=400&h=600&fit=crop`;
+const thumb = (seed) => `https://picsum.photos/seed/${seed}/400/600`;
 
 const tokyoVideos = [
   { title: "东京3日暴走路线｜新手不踩坑", creator: "@tokyo_walker", intent: "learn", pois: ["浅草寺", "秋叶原", "新宿"], tags: ["新手友好", "步行多", "预算中等"], day: 1 },
@@ -124,13 +123,9 @@ const singaporeVideos = [
   { title: "新加坡地铁+巴士交通攻略", creator: "@sg_tips", intent: "learn", pois: ["樟宜机场"], tags: ["交通", "Ez-link", "省钱"], day: 0 },
 ];
 
-const thumbs = {
-  tokyo: ["1540959737352-9a0b0c69812a", "1493976060935-0f9a369e6087", "1528162054280-147b0e2768a9", "1503899037464-26b0bc64a3d4", "1536098010691-81d0d4a59a90"],
-  bangkok: ["1552465011-b4ef21a79d7e", "1508009603885-50cf7c579365", "1528181304800-2592c0df9920", "1563492065593-61f49c0a832d", "1559592413-7c0a0c0b0b0b"],
-  kyoto: ["1491888946425-aa0ced6532f0", "1545569341-9dbca384fa12", "1524413306007-f56e967dc903", "1578478389160-e3c929d5992e", "1528365851839-021875d310a7"],
-  bali: ["1537996195441-565783c4df4b", "1518548419970-58e640b2790e", "1555409288-cdc736c5939d", "1512453979798-5ea266f9340b", "1507525428034-b723cf961d3e"],
-  singapore: ["1525621042936-feaa9a022b7a", "1529655683827-abb9c99c4d1a", "1565967511843-21a8c516fa8a", "1567365689960-8e4f3a2a0a0a", "1540959737352-9a0b0c69812a"],
-};
+function thumbSeed(city, index) {
+  return `triplens-${city}-${index}`;
+}
 
 const CITY_PREFIX = {
   tokyo: "t",
@@ -151,7 +146,7 @@ function buildVideos(cityVideos, city) {
     transcript: `${v.title}。今天带大家探索${v.pois.join("、")}。${v.tags.join("，")}。强烈推荐！`,
     pois: v.pois,
     tags: v.tags,
-    thumbnail: thumb(thumbs[city][i % thumbs[city].length]),
+    thumbnail: thumb(thumbSeed(city, i + 1)),
     views: `${(Math.random() * 2 + 0.1).toFixed(1)}M`,
     ...(v.day !== undefined && v.day > 0 ? { day: v.day } : {}),
   }));
@@ -204,30 +199,30 @@ const poiData = pois.map((p) => ({
   priceLevel: p.priceLevel,
   ...(p.queueTime ? { queueTime: p.queueTime } : {}),
   rating: p.rating,
-  thumbnail: thumb(thumbs[p.city][parseInt(p.id.slice(-1)) % 5]),
+  thumbnail: thumb(thumbSeed(p.city, p.id)),
   address: p.address,
   relatedVideoIds: p.videos,
 }));
 
 const listings = [
-  { id: "l001", name: "东京迪士尼乐园 1日票", city: "tokyo", type: "ticket", price: 7900, currency: "JPY", rating: 4.6, reviewCount: 12500, provider: "Klook", tags: ["迪士尼", "亲子", "热门"], videos: ["t011"], thumb: "1540959737352-9a0b0c69812a" },
-  { id: "l002", name: "东京迪士尼乐园 快速通行", city: "tokyo", type: "ticket", price: 15000, currency: "JPY", rating: 4.4, reviewCount: 3200, provider: "官方", tags: ["迪士尼", "免排队"], videos: ["t011"], thumb: "1493976060935-0f9a369e6087" },
-  { id: "l003", name: "希尔顿成田机场酒店", city: "tokyo", type: "hotel", price: 12000, currency: "JPY", rating: 4.3, reviewCount: 8900, provider: "Booking", tags: ["机场", "转机", "舒适"], videos: ["t012"], thumb: "1528162054280-147b0e2768a9" },
-  { id: "l004", name: "格拉斯丽新宿酒店", city: "tokyo", type: "hotel", price: 8500, currency: "JPY", rating: 4.5, reviewCount: 6700, provider: "Agoda", tags: ["新宿", "哥斯拉主题", "性价比"], videos: ["t013"], thumb: "1503899037464-26b0bc64a3d4" },
-  { id: "l005", name: "新宿华盛顿酒店", city: "tokyo", type: "hotel", price: 6500, currency: "JPY", rating: 4.1, reviewCount: 4500, provider: "Booking", tags: ["新宿", "平价", "交通方便"], videos: ["t013"], thumb: "1536098010691-81d0d4a59a90" },
-  { id: "l006", name: "大皇宫门票+导览", city: "bangkok", type: "ticket", price: 500, currency: "THB", rating: 4.2, reviewCount: 9800, provider: "Trip.com", tags: ["大皇宫", "导览"], videos: ["b011"], thumb: "1552465011-b4ef21a79d7e" },
-  { id: "l007", name: "曼谷暹罗智选假日酒店", city: "bangkok", type: "hotel", price: 2800, currency: "THB", rating: 4.4, reviewCount: 5600, provider: "Agoda", tags: ["暹罗", "BTS沿线", "性价比"], videos: ["b009"], thumb: "1508009603885-50cf7c579365" },
-  { id: "l008", name: "岚山小火车 tickets", city: "kyoto", type: "ticket", price: 880, currency: "JPY", rating: 4.5, reviewCount: 4200, provider: "官方", tags: ["岚山", "小火车", "赏枫"], videos: ["k012"], thumb: "1491888946425-aa0ced6532f0" },
-  { id: "l009", name: "京都祇园町屋民宿", city: "kyoto", type: "hotel", price: 15000, currency: "JPY", rating: 4.7, reviewCount: 890, provider: "Airbnb", tags: ["町屋", "传统", "体验"], videos: ["k011"], thumb: "1545569341-9dbca384fa12" },
-  { id: "l010", name: "东京SKYTREE门票", city: "tokyo", type: "ticket", price: 2100, currency: "JPY", rating: 4.5, reviewCount: 7800, provider: "Klook", tags: ["晴空塔", "夜景"], videos: ["t003"], thumb: "1528162054280-147b0e2768a9" },
-  { id: "l011", name: "水明漾私人 Villa 2晚", city: "bali", type: "hotel", price: 2800000, currency: "IDR", rating: 4.8, reviewCount: 1200, provider: "Airbnb", tags: ["villa", "泳池", "浪漫"], videos: ["l013"], thumb: "1537996195441-565783c4df4b" },
-  { id: "l012", name: "乌鲁瓦图 Kecak 火舞门票", city: "bali", type: "ticket", price: 150000, currency: "IDR", rating: 4.6, reviewCount: 3400, provider: "Klook", tags: ["火舞", "日落", "文化"], videos: ["l015"], thumb: "1518548419970-58e640b2790e" },
-  { id: "l013", name: "乌布梯田 Swing 体验", city: "bali", type: "tour", price: 350000, currency: "IDR", rating: 4.3, reviewCount: 8900, provider: "Trip.com", tags: ["网红", "Swing", "拍照"], videos: ["l011"], thumb: "1555409288-cdc736c5939d" },
-  { id: "l014", name: "登巴萨机场接机+包车1日", city: "bali", type: "tour", price: 650000, currency: "IDR", rating: 4.5, reviewCount: 2100, provider: "Klook", tags: ["接机", "包车", "方便"], videos: ["l014"], thumb: "1512453979798-5ea266f9340b" },
-  { id: "l015", name: "环球影城新加坡 1日票", city: "singapore", type: "ticket", price: 82, currency: "SGD", rating: 4.5, reviewCount: 15600, provider: "官方", tags: ["环球影城", "亲子", "热门"], videos: ["s011"], thumb: "1525621042936-feaa9a022b7a" },
-  { id: "l016", name: "滨海湾金沙 2晚", city: "singapore", type: "hotel", price: 680, currency: "SGD", rating: 4.6, reviewCount: 9800, provider: "Booking", tags: ["无边泳池", "地标", "奢华"], videos: ["s012"], thumb: "1529655683827-abb9c99c4d1a" },
-  { id: "l017", name: "樟宜机场胶囊酒店", city: "singapore", type: "hotel", price: 80, currency: "SGD", rating: 4.2, reviewCount: 3200, provider: "Agoda", tags: ["机场", "转机", "平价"], videos: ["s013"], thumb: "1565967511843-21a8c516fa8a" },
-  { id: "l018", name: "滨海湾花园 双馆门票", city: "singapore", type: "ticket", price: 28, currency: "SGD", rating: 4.7, reviewCount: 11200, provider: "Klook", tags: ["超级树", "Cloud Forest"], videos: ["s010"], thumb: "1567365689960-8e4f3a2a0a0a" },
+  { id: "l001", name: "东京迪士尼乐园 1日票", city: "tokyo", type: "ticket", price: 7900, currency: "JPY", rating: 4.6, reviewCount: 12500, provider: "Klook", tags: ["迪士尼", "亲子", "热门"], videos: ["t011"] },
+  { id: "l002", name: "东京迪士尼乐园 快速通行", city: "tokyo", type: "ticket", price: 15000, currency: "JPY", rating: 4.4, reviewCount: 3200, provider: "官方", tags: ["迪士尼", "免排队"], videos: ["t011"] },
+  { id: "l003", name: "希尔顿成田机场酒店", city: "tokyo", type: "hotel", price: 12000, currency: "JPY", rating: 4.3, reviewCount: 8900, provider: "Booking", tags: ["机场", "转机", "舒适"], videos: ["t012"] },
+  { id: "l004", name: "格拉斯丽新宿酒店", city: "tokyo", type: "hotel", price: 8500, currency: "JPY", rating: 4.5, reviewCount: 6700, provider: "Agoda", tags: ["新宿", "哥斯拉主题", "性价比"], videos: ["t013"] },
+  { id: "l005", name: "新宿华盛顿酒店", city: "tokyo", type: "hotel", price: 6500, currency: "JPY", rating: 4.1, reviewCount: 4500, provider: "Booking", tags: ["新宿", "平价", "交通方便"], videos: ["t013"] },
+  { id: "l006", name: "大皇宫门票+导览", city: "bangkok", type: "ticket", price: 500, currency: "THB", rating: 4.2, reviewCount: 9800, provider: "Trip.com", tags: ["大皇宫", "导览"], videos: ["b011"] },
+  { id: "l007", name: "曼谷暹罗智选假日酒店", city: "bangkok", type: "hotel", price: 2800, currency: "THB", rating: 4.4, reviewCount: 5600, provider: "Agoda", tags: ["暹罗", "BTS沿线", "性价比"], videos: ["b009"] },
+  { id: "l008", name: "岚山小火车 tickets", city: "kyoto", type: "ticket", price: 880, currency: "JPY", rating: 4.5, reviewCount: 4200, provider: "官方", tags: ["岚山", "小火车", "赏枫"], videos: ["k012"] },
+  { id: "l009", name: "京都祇园町屋民宿", city: "kyoto", type: "hotel", price: 15000, currency: "JPY", rating: 4.7, reviewCount: 890, provider: "Airbnb", tags: ["町屋", "传统", "体验"], videos: ["k011"] },
+  { id: "l010", name: "东京SKYTREE门票", city: "tokyo", type: "ticket", price: 2100, currency: "JPY", rating: 4.5, reviewCount: 7800, provider: "Klook", tags: ["晴空塔", "夜景"], videos: ["t003"] },
+  { id: "l011", name: "水明漾私人 Villa 2晚", city: "bali", type: "hotel", price: 2800000, currency: "IDR", rating: 4.8, reviewCount: 1200, provider: "Airbnb", tags: ["villa", "泳池", "浪漫"], videos: ["l013"] },
+  { id: "l012", name: "乌鲁瓦图 Kecak 火舞门票", city: "bali", type: "ticket", price: 150000, currency: "IDR", rating: 4.6, reviewCount: 3400, provider: "Klook", tags: ["火舞", "日落", "文化"], videos: ["l015"] },
+  { id: "l013", name: "乌布梯田 Swing 体验", city: "bali", type: "tour", price: 350000, currency: "IDR", rating: 4.3, reviewCount: 8900, provider: "Trip.com", tags: ["网红", "Swing", "拍照"], videos: ["l011"] },
+  { id: "l014", name: "登巴萨机场接机+包车1日", city: "bali", type: "tour", price: 650000, currency: "IDR", rating: 4.5, reviewCount: 2100, provider: "Klook", tags: ["接机", "包车", "方便"], videos: ["l014"] },
+  { id: "l015", name: "环球影城新加坡 1日票", city: "singapore", type: "ticket", price: 82, currency: "SGD", rating: 4.5, reviewCount: 15600, provider: "官方", tags: ["环球影城", "亲子", "热门"], videos: ["s011"] },
+  { id: "l016", name: "滨海湾金沙 2晚", city: "singapore", type: "hotel", price: 680, currency: "SGD", rating: 4.6, reviewCount: 9800, provider: "Booking", tags: ["无边泳池", "地标", "奢华"], videos: ["s012"] },
+  { id: "l017", name: "樟宜机场胶囊酒店", city: "singapore", type: "hotel", price: 80, currency: "SGD", rating: 4.2, reviewCount: 3200, provider: "Agoda", tags: ["机场", "转机", "平价"], videos: ["s013"] },
+  { id: "l018", name: "滨海湾花园 双馆门票", city: "singapore", type: "ticket", price: 28, currency: "SGD", rating: 4.7, reviewCount: 11200, provider: "Klook", tags: ["超级树", "Cloud Forest"], videos: ["s010"] },
 ];
 
 const listingData = listings.map((l) => ({
@@ -239,7 +234,7 @@ const listingData = listings.map((l) => ({
   currency: l.currency,
   rating: l.rating,
   reviewCount: l.reviewCount,
-  thumbnail: thumb(l.thumb),
+  thumbnail: thumb(thumbSeed(l.city, l.id)),
   provider: l.provider,
   relatedVideoIds: l.videos,
   tags: l.tags,

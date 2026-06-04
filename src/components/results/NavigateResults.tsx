@@ -2,6 +2,7 @@
 
 import type { SearchResponse } from "@/types";
 import { VideoCard } from "../VideoCard";
+import ThumbnailImage from "../ThumbnailImage";
 
 interface NavigateResultsProps {
   target: NonNullable<SearchResponse["navigateTarget"]>;
@@ -12,8 +13,7 @@ export default function NavigateResults({ target }: NavigateResultsProps) {
     <div className="space-y-6">
       <div className="overflow-hidden rounded-2xl border border-orange-500/20 bg-zinc-900">
         <div className="relative h-48 overflow-hidden sm:h-56">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
+          <ThumbnailImage
             src={target.thumbnail}
             alt={target.name}
             className="h-full w-full object-cover"

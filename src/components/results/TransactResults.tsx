@@ -2,6 +2,7 @@
 
 import type { Listing, Video } from "@/types";
 import { VideoCard } from "../VideoCard";
+import ThumbnailImage from "../ThumbnailImage";
 
 interface TransactResultsProps {
   listings: Listing[];
@@ -30,8 +31,7 @@ export default function TransactResults({ listings, videos }: TransactResultsPro
               className="flex gap-4 rounded-xl border border-green-500/20 bg-zinc-900 p-4 transition hover:border-green-500/40"
             >
               <div className="h-24 w-24 shrink-0 overflow-hidden rounded-lg">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <ThumbnailImage
                   src={listing.thumbnail}
                   alt={listing.name}
                   className="h-full w-full object-cover"

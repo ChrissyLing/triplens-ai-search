@@ -8,7 +8,7 @@
     "currency": "JPY",
     "rating": 4.6,
     "reviewCount": 12500,
-    "thumbnail": "https://images.unsplash.com/photo-1540959737352-9a0b0c69812a?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-l001/400/600",
     "provider": "Klook",
     "relatedVideoIds": [
       "t011"
@@ -28,7 +28,7 @@
     "currency": "JPY",
     "rating": 4.4,
     "reviewCount": 3200,
-    "thumbnail": "https://images.unsplash.com/photo-1493976060935-0f9a369e6087?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-l002/400/600",
     "provider": "官方",
     "relatedVideoIds": [
       "t011"
@@ -47,7 +47,7 @@
     "currency": "JPY",
     "rating": 4.3,
     "reviewCount": 8900,
-    "thumbnail": "https://images.unsplash.com/photo-1528162054280-147b0e2768a9?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-l003/400/600",
     "provider": "Booking",
     "relatedVideoIds": [
       "t012"
@@ -67,7 +67,7 @@
     "currency": "JPY",
     "rating": 4.5,
     "reviewCount": 6700,
-    "thumbnail": "https://images.unsplash.com/photo-1503899037464-26b0bc64a3d4?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-l004/400/600",
     "provider": "Agoda",
     "relatedVideoIds": [
       "t013"
@@ -87,7 +87,7 @@
     "currency": "JPY",
     "rating": 4.1,
     "reviewCount": 4500,
-    "thumbnail": "https://images.unsplash.com/photo-1536098010691-81d0d4a59a90?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-l005/400/600",
     "provider": "Booking",
     "relatedVideoIds": [
       "t013"
@@ -107,7 +107,7 @@
     "currency": "THB",
     "rating": 4.2,
     "reviewCount": 9800,
-    "thumbnail": "https://images.unsplash.com/photo-1552465011-b4ef21a79d7e?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-bangkok-l006/400/600",
     "provider": "Trip.com",
     "relatedVideoIds": [
       "b011"
@@ -126,7 +126,7 @@
     "currency": "THB",
     "rating": 4.4,
     "reviewCount": 5600,
-    "thumbnail": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-bangkok-l007/400/600",
     "provider": "Agoda",
     "relatedVideoIds": [
       "b009"
@@ -146,7 +146,7 @@
     "currency": "JPY",
     "rating": 4.5,
     "reviewCount": 4200,
-    "thumbnail": "https://images.unsplash.com/photo-1491888946425-aa0ced6532f0?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-l008/400/600",
     "provider": "官方",
     "relatedVideoIds": [
       "k012"
@@ -166,7 +166,7 @@
     "currency": "JPY",
     "rating": 4.7,
     "reviewCount": 890,
-    "thumbnail": "https://images.unsplash.com/photo-1545569341-9dbca384fa12?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-kyoto-l009/400/600",
     "provider": "Airbnb",
     "relatedVideoIds": [
       "k011"
@@ -186,7 +186,7 @@
     "currency": "JPY",
     "rating": 4.5,
     "reviewCount": 7800,
-    "thumbnail": "https://images.unsplash.com/photo-1528162054280-147b0e2768a9?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-tokyo-l010/400/600",
     "provider": "Klook",
     "relatedVideoIds": [
       "t003"
@@ -205,7 +205,7 @@
     "currency": "IDR",
     "rating": 4.8,
     "reviewCount": 1200,
-    "thumbnail": "https://images.unsplash.com/photo-1537996195441-565783c4df4b?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-bali-l011/400/600",
     "provider": "Airbnb",
     "relatedVideoIds": [
       "l013"
@@ -225,7 +225,7 @@
     "currency": "IDR",
     "rating": 4.6,
     "reviewCount": 3400,
-    "thumbnail": "https://images.unsplash.com/photo-1518548419970-58e640b2790e?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-bali-l012/400/600",
     "provider": "Klook",
     "relatedVideoIds": [
       "l015"
@@ -245,7 +245,7 @@
     "currency": "IDR",
     "rating": 4.3,
     "reviewCount": 8900,
-    "thumbnail": "https://images.unsplash.com/photo-1555409288-cdc736c5939d?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-bali-l013/400/600",
     "provider": "Trip.com",
     "relatedVideoIds": [
       "l011"
@@ -265,7 +265,7 @@
     "currency": "IDR",
     "rating": 4.5,
     "reviewCount": 2100,
-    "thumbnail": "https://images.unsplash.com/photo-1512453979798-5ea266f9340b?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-bali-l014/400/600",
     "provider": "Klook",
     "relatedVideoIds": [
       "l014"
@@ -285,7 +285,7 @@
     "currency": "SGD",
     "rating": 4.5,
     "reviewCount": 15600,
-    "thumbnail": "https://images.unsplash.com/photo-1525621042936-feaa9a022b7a?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-singapore-l015/400/600",
     "provider": "官方",
     "relatedVideoIds": [
       "s011"
@@ -305,7 +305,7 @@
     "currency": "SGD",
     "rating": 4.6,
     "reviewCount": 9800,
-    "thumbnail": "https://images.unsplash.com/photo-1529655683827-abb9c99c4d1a?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-singapore-l016/400/600",
     "provider": "Booking",
     "relatedVideoIds": [
       "s012"
@@ -325,7 +325,7 @@
     "currency": "SGD",
     "rating": 4.2,
     "reviewCount": 3200,
-    "thumbnail": "https://images.unsplash.com/photo-1565967511843-21a8c516fa8a?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-singapore-l017/400/600",
     "provider": "Agoda",
     "relatedVideoIds": [
       "s013"
@@ -345,7 +345,7 @@
     "currency": "SGD",
     "rating": 4.7,
     "reviewCount": 11200,
-    "thumbnail": "https://images.unsplash.com/photo-1567365689960-8e4f3a2a0a0a?w=400&h=600&fit=crop",
+    "thumbnail": "https://picsum.photos/seed/triplens-singapore-l018/400/600",
     "provider": "Klook",
     "relatedVideoIds": [
       "s010"
